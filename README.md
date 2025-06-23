@@ -27,6 +27,7 @@ TinyLink is a full-stack URL shortener web app built using **Next.js**, **MongoD
 
 
 ## 🛠️ Getting Started
+Prerequisite: You must have MongoDB installed and running locally
 
 ### 1. Clone the repo
 ```bash
